@@ -22,14 +22,8 @@ mute = true
 [params.links.list1]
 heading = "Connect"
 [[params.links.list1.link]]
-text = "Blog"
-url = "#"
-[[params.links.list1.link]]
 text = "Email"
-url = "#"
-[[params.links.list1.link]]
-text = "Newsletter"
-url = "#"
+url = "jcandido@cs.stanford.edu"
 [[params.links]]
 [params.links.list2]
 heading = "Social"
