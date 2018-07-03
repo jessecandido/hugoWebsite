@@ -1,7 +1,6 @@
 +++
-title = "Jesse Candido"
 tagline = "Computer Scientist. Thinker. Writer."
+title = "Jesse Candido"
+
 +++
-
-
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien.
+I'm Jesse Candido, a senior at Stanford University. I study Computer Science, with a focus in Human Computer Interaction (HCI) and a minor in German Studies.
